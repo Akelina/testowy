@@ -1,0 +1,2 @@
+# testowy
+Testowanie funkcjonalnośći GITa
